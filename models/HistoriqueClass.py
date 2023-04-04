@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Historique(object):
     def __init__(self, nom, date, temps):
         self.nom = nom

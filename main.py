@@ -1,6 +1,5 @@
-import labMoteur
+# -*- coding: utf-8 -*-
+
 import labAffichage
 
 labAffichage.labMenu()
-
-# labMoteur.resoudreLabyrinthe()

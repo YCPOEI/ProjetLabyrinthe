@@ -1,8 +1,4 @@
-# Afficher le menu du labyrinthe
-# Afficher Labyrinthe incomplet
-# Afficher Labyrinthe complété
-# Consulter historique
-
+# -*- coding: utf-8 -*-
 from models.HistoriqueClass import Historique
 from models.LabyrintheClass import Labyrinthe
 import labMoteur

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Labyrinthe(object):
     def __init__(self, fichier):
         self.fichier = fichier
