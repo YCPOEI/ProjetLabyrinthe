@@ -103,7 +103,6 @@ def trouverCheminLabyrinthe(
         return
     if tries > 1000:
         return
-    print(depart)
     chemin.append(depart)  # Add the current position in the path taken
     if depart[0] > 0:  # Move Up
         if lab_table[depart[0] - 1][depart[1]] == ".":
